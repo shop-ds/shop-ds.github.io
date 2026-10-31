@@ -20,8 +20,8 @@
       "pdf_file": "Coaching-Codex_50-AI-Prompts-for-Small-Business.pdf",
       "download_token": "2CUB3FtDdYmy",
       "download_page": "dl/50-copy-paste-ai-prompts-for-small-business-owners-2CUB3FtDdYmy/",
-      "stripe_payment_link": "https://buy.stripe.com/test_5kQ6oA98p0pWbNXeSR9R600",
-      "stripe_product_id": "prod_VXfnGtgc8V6Jib"
+      "stripe_payment_link": "https://buy.stripe.com/bJe9AM0Ju1zZ9cYdni8ww00",
+      "stripe_product_id": "prod_VXjBJuIDzVQ4eb"
     },
     {
       "id": "CC-04",
@@ -36,8 +36,8 @@
       "pdf_file": "Coaching-Codex_Week-of-Social-Posts-in-30-Minutes.pdf",
       "download_token": "EfxK8QoCxEyj",
       "download_page": "dl/write-a-week-of-social-media-posts-in-30-minutes-with-ai-EfxK8QoCxEyj/",
-      "stripe_payment_link": "https://buy.stripe.com/test_cNi6oAckBb4A8BLfWV9R601",
-      "stripe_product_id": "prod_VXfnGaUVz6GQUP"
+      "stripe_payment_link": "https://buy.stripe.com/5kQeV62RC2E388Ugzu8ww01",
+      "stripe_product_id": "prod_VXjCrgJTSnondP"
     },
     {
       "id": "CC-09",
@@ -52,8 +52,8 @@
       "pdf_file": "Coaching-Codex_Automate-Your-Inbox-and-Customer-Replies.pdf",
       "download_token": "WgqbysO4x7tm",
       "download_page": "dl/automate-your-inbox-and-customer-replies-with-ai-WgqbysO4x7tm/",
-      "stripe_payment_link": "https://buy.stripe.com/test_00wdR2doF7So4lvaCB9R602",
-      "stripe_product_id": "prod_VXfnlzYiM40sgu"
+      "stripe_payment_link": "https://buy.stripe.com/6oUaEQgIsa6vexi5UQ8ww02",
+      "stripe_product_id": "prod_VXjCx78R8Fh7oM"
     },
     {
       "id": "CC-02",
@@ -68,8 +68,8 @@
       "pdf_file": "Coaching-Codex_chatgpt-claude-gemini-or-copilot-pick-the-right-ai.pdf",
       "download_token": "UAycCdkKoB8y",
       "download_page": "dl/chatgpt-claude-gemini-or-copilot-pick-the-right-ai-UAycCdkKoB8y/",
-      "stripe_payment_link": "https://buy.stripe.com/test_14A14g2K1egM7xHcKJ9R603",
-      "stripe_product_id": "prod_VXfnCddWowLpJI"
+      "stripe_payment_link": "https://buy.stripe.com/9B68wI0JuemL4WI6YU8ww03",
+      "stripe_product_id": "prod_VXjCZuVnSDZpx7"
     }
   ],
   "bundles": [
@@ -83,9 +83,9 @@
         "CC-04",
         "CC-09"
       ],
-      "stripe_payment_link": "https://buy.stripe.com/test_6oU9AMfwNegM05f7qp9R604",
+      "stripe_payment_link": "https://buy.stripe.com/8x2fZagIs5Qf0Gs5UQ8ww04",
       "download_page": "dl/starter-3-pack-tGcsAJ0Hnvut/",
-      "stripe_product_id": "prod_VXfo6aGZviNxdJ"
+      "stripe_product_id": "prod_VXjCEwp75O9uTd"
     },
     {
       "slug": "themed-5-pack",
@@ -93,9 +93,9 @@
       "price_usd": 9.9,
       "desc": "Pick any five guides from the library. Save over 25% versus singles.",
       "includes": [],
-      "stripe_payment_link": "https://buy.stripe.com/test_cNi6oAactegM3hrh0Z9R605",
+      "stripe_payment_link": "",
       "download_page": "",
-      "stripe_product_id": "prod_VXfo15bFCjc2Lx"
+      "stripe_product_id": ""
     },
     {
       "slug": "all-access",
@@ -105,10 +105,10 @@
       "includes": [
         "ALL"
       ],
-      "stripe_payment_link": "https://buy.stripe.com/test_7sY4gs98p8Ws19jh0Z9R606",
+      "stripe_payment_link": "https://buy.stripe.com/dRm6oA4ZK6Ujcpagzu8ww05",
       "download_page": "dl/all-access-JZXNrdttDoxc/",
       "featured": true,
-      "stripe_product_id": "prod_VXfoqZyqehFlpR"
+      "stripe_product_id": "prod_VXjClAf1t4gP5P"
     }
   ]
 }
