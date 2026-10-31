@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /dl/
+Sitemap: https://shop-ds.github.io/sitemap.xml
