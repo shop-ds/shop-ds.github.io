@@ -70,6 +70,22 @@
       "download_page": "dl/chatgpt-claude-gemini-or-copilot-pick-the-right-ai-UAycCdkKoB8y/",
       "stripe_payment_link": "https://buy.stripe.com/9B68wI0JuemL4WI6YU8ww03",
       "stripe_product_id": "prod_VXjCZuVnSDZpx7"
+    },
+    {
+      "id": "CC-03",
+      "n": 5,
+      "slug": "custom-ai-assistants-for-your-business-build-your-first-gpt",
+      "title": "Custom AI Assistants for Your Business: Build Your First GPT, Gem or Project",
+      "area": "A",
+      "area_name": "ChatGPT & LLM prompting for business",
+      "promise": "Turn your best prompts into a reusable assistant that already knows your business.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/custom-ai-assistants-for-your-business-build-your-first-gpt.png",
+      "pdf_file": "Coaching-Codex_custom-ai-assistants-for-your-business-build-your-first-gpt.pdf",
+      "download_token": "M3hSys48XqcC",
+      "download_page": "dl/custom-ai-assistants-for-your-business-build-your-first-gpt-M3hSys48XqcC/",
+      "stripe_payment_link": "https://buy.stripe.com/fZu00c4ZKa6vcpa1EA8ww06",
+      "stripe_product_id": "prod_VXk80iZy20iJIK"
     }
   ],
   "bundles": [
