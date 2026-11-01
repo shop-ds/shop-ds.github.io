@@ -86,6 +86,22 @@
       "download_page": "dl/custom-ai-assistants-for-your-business-build-your-first-gpt-M3hSys48XqcC/",
       "stripe_payment_link": "https://buy.stripe.com/fZu00c4ZKa6vcpa1EA8ww06",
       "stripe_product_id": "prod_VXk80iZy20iJIK"
+    },
+    {
+      "id": "CC-05",
+      "n": 6,
+      "slug": "ai-for-local-marketing-google-business-profile-reviews-and",
+      "title": "AI for Local Marketing: Google Business Profile, Reviews & Local Posts",
+      "area": "B",
+      "area_name": "AI for marketing & social content",
+      "promise": "Get found by nearby customers with an AI-assisted local marketing routine.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-for-local-marketing-google-business-profile-reviews-and.png",
+      "pdf_file": "Coaching-Codex_ai-for-local-marketing-google-business-profile-reviews-and.pdf",
+      "download_token": "puGO6uXR1v49",
+      "download_page": "dl/ai-for-local-marketing-google-business-profile-reviews-and-puGO6uXR1v49/",
+      "stripe_payment_link": "https://buy.stripe.com/9B63co4ZKbaz1Kwfvq8ww07",
+      "stripe_product_id": "prod_VYEP71HMNuRdCA"
     }
   ],
   "bundles": [
