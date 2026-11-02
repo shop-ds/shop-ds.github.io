@@ -102,6 +102,22 @@
       "download_page": "dl/ai-for-local-marketing-google-business-profile-reviews-and-puGO6uXR1v49/",
       "stripe_payment_link": "https://buy.stripe.com/9B63co4ZKbaz1Kwfvq8ww07",
       "stripe_product_id": "prod_VYEP71HMNuRdCA"
+    },
+    {
+      "id": "CC-06",
+      "n": 7,
+      "slug": "turn-one-video-into-10-posts-ai-content-repurposing",
+      "title": "Turn One Video into 10 Posts: AI Content Repurposing",
+      "area": "B",
+      "area_name": "AI for marketing & social content",
+      "promise": "Record once, publish everywhere: shorts, captions, a blog and an email.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/turn-one-video-into-10-posts-ai-content-repurposing.png",
+      "pdf_file": "Coaching-Codex_turn-one-video-into-10-posts-ai-content-repurposing.pdf",
+      "download_token": "zT2vqxxjVaBT",
+      "download_page": "dl/turn-one-video-into-10-posts-ai-content-repurposing-zT2vqxxjVaBT/",
+      "stripe_payment_link": "https://buy.stripe.com/dRm8wIgIs5Qfexierm8ww08",
+      "stripe_product_id": "prod_VYbYujqTFTJyxN"
     }
   ],
   "bundles": [
