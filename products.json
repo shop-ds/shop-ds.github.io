@@ -118,6 +118,22 @@
       "download_page": "dl/turn-one-video-into-10-posts-ai-content-repurposing-zT2vqxxjVaBT/",
       "stripe_payment_link": "https://buy.stripe.com/dRm8wIgIs5Qfexierm8ww08",
       "stripe_product_id": "prod_VYbYujqTFTJyxN"
+    },
+    {
+      "id": "CC-07",
+      "n": 8,
+      "slug": "ai-sales-emails-that-get-replies-25-templates-and-prompts",
+      "title": "AI Sales Emails That Get Replies: 25 Templates & Prompts",
+      "area": "C",
+      "area_name": "AI for sales emails",
+      "promise": "Write short, human sales emails that start conversations.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-sales-emails-that-get-replies-25-templates-and-prompts.png",
+      "pdf_file": "Coaching-Codex_ai-sales-emails-that-get-replies-25-templates-and-prompts.pdf",
+      "download_token": "ZV4vyFHTJKMs",
+      "download_page": "dl/ai-sales-emails-that-get-replies-25-templates-and-prompts-ZV4vyFHTJKMs/",
+      "stripe_payment_link": "https://buy.stripe.com/fZu00cbo87Yn88Ugzu8ww09",
+      "stripe_product_id": "prod_VYypAmESrC99Mz"
     }
   ],
   "bundles": [
