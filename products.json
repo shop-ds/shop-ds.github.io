@@ -150,6 +150,22 @@
       "download_page": "dl/follow-up-without-fear-ai-scripts-for-quotes-leads-and-win-6hsxukS8J9Zx/",
       "stripe_payment_link": "https://buy.stripe.com/eVq14g9g0fqP2OA9728ww0a",
       "stripe_product_id": "prod_VZLvttUoMn8axa"
+    },
+    {
+      "id": "CC-10",
+      "n": 10,
+      "slug": "build-a-24-7-faq-chatbot-for-your-website-no-code",
+      "title": "Build a 24/7 FAQ Chatbot for Your Website (No Code)",
+      "area": "D",
+      "area_name": "AI for customer support",
+      "promise": "Answer common questions instantly, even when you’re closed.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/build-a-24-7-faq-chatbot-for-your-website-no-code.png",
+      "pdf_file": "Coaching-Codex_build-a-24-7-faq-chatbot-for-your-website-no-code.pdf",
+      "download_token": "XxkiAlxDomC0",
+      "download_page": "dl/build-a-24-7-faq-chatbot-for-your-website-no-code-XxkiAlxDomC0/",
+      "stripe_payment_link": "https://buy.stripe.com/4gM00c8bW4Mb4WI1EA8ww0b",
+      "stripe_product_id": "prod_VZjDVpbrsCvF5h"
     }
   ],
   "bundles": [
