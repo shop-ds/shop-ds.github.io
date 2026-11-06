@@ -166,6 +166,22 @@
       "download_page": "dl/build-a-24-7-faq-chatbot-for-your-website-no-code-XxkiAlxDomC0/",
       "stripe_payment_link": "https://buy.stripe.com/4gM00c8bW4Mb4WI1EA8ww0b",
       "stripe_product_id": "prod_VZjDVpbrsCvF5h"
+    },
+    {
+      "id": "CC-11",
+      "n": 11,
+      "slug": "ai-spreadsheets-for-non-techies-formulas-clean-up-and",
+      "title": "AI Spreadsheets for Non-Techies: Formulas, Clean-Up & Reports",
+      "area": "E",
+      "area_name": "AI spreadsheets & data",
+      "promise": "Make Excel and Google Sheets do the hard work, explained in plain words.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-spreadsheets-for-non-techies-formulas-clean-up-and.png",
+      "pdf_file": "Coaching-Codex_ai-spreadsheets-for-non-techies-formulas-clean-up-and.pdf",
+      "download_token": "c0JOxuRnocsb",
+      "download_page": "dl/ai-spreadsheets-for-non-techies-formulas-clean-up-and-c0JOxuRnocsb/",
+      "stripe_payment_link": "https://buy.stripe.com/cNi00cgIsdiH1Kwcje8ww0c",
+      "stripe_product_id": "prod_Va6XkTraCzuVpo"
     }
   ],
   "bundles": [
