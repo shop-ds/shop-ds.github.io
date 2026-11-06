@@ -3,7 +3,7 @@
     "site_url": "https://shop-ds.github.io",
     "brand": "Coaching Codex",
     "support_email": "lawrence.lim@digitalisesolutions.com",
-    "lead_form_action": "",
+    "lead_form_action": "https://assets.mailerlite.com/jsonp/2758360/forms/203343703710893233/subscribe",
     "_notes": "site_url = public base URL once hosted (used for Stripe redirects). lead_form_action = POST URL from your email tool (MailerLite/ConvertKit/Brevo form). Fill stripe_payment_link per product via build/stripe_setup.py or by hand. lead_form_action: when set, the email form replaces the direct Starter Pack download on / and /starter/ (form must POST first_name + email)."
   },
   "products": [
