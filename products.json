@@ -182,6 +182,22 @@
       "download_page": "dl/ai-spreadsheets-for-non-techies-formulas-clean-up-and-c0JOxuRnocsb/",
       "stripe_payment_link": "https://buy.stripe.com/cNi00cgIsdiH1Kwcje8ww0c",
       "stripe_product_id": "prod_Va6XkTraCzuVpo"
+    },
+    {
+      "id": "CC-12",
+      "n": 12,
+      "slug": "ask-your-data-turn-sales-numbers-into-simple-insights-with",
+      "title": "Ask Your Data: Turn Sales Numbers into Simple Insights with AI",
+      "area": "E",
+      "area_name": "AI spreadsheets & data",
+      "promise": "Upload your numbers and get clear answers about what's working.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ask-your-data-turn-sales-numbers-into-simple-insights-with.png",
+      "pdf_file": "Coaching-Codex_ask-your-data-turn-sales-numbers-into-simple-insights-with.pdf",
+      "download_token": "Z8XxgDEkGncd",
+      "download_page": "dl/ask-your-data-turn-sales-numbers-into-simple-insights-with-Z8XxgDEkGncd/",
+      "stripe_payment_link": "https://buy.stripe.com/cNidR2ak40vVbl6gzu8ww0d",
+      "stripe_product_id": "prod_VaTluF4aBvA5X8"
     }
   ],
   "bundles": [
