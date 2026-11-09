@@ -93,7 +93,7 @@ function tasks(){return `<div class="card"><span class="kicker">Step 2</span><h2
  <div class="tasks">${D.tasks.map(t=>`<a class="task" href="#t/${t.id}/intro"><b>${esc(t.title)}</b><span class="small">${esc(t.when)}</span><br>${t.source?`<span class="chip">Based on prompt #${t.source}</span>`:''}</a>`).join('')}</div></div>`}
 const T=id=>D.tasks.find(t=>t.id==id);
 function prof(){return LS.get(PK,{})}
-function langField(q,v){const opts=['English','Bahasa Melayu','Chinese (Simplified)','Tamil','Indonesian','Spanish','French','German','Arabic','Hindi'];
+function langField(q,v){const opts=['English','Chinese (Simplified)','Tamil','Indonesian','Spanish','French','German','Arabic','Hindi'];
  return `<input type="text" id="qv" list="langs" value="${esc(v)}" placeholder="e.g. English"><datalist id="langs">${opts.map(o=>`<option value="${o}">`).join('')}</datalist>`}
 function question(t,i){
  const qs=t.questions,q=qs[i],a=ans[t.id]||(ans[t.id]={});const pr=prof();
