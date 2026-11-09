@@ -158,7 +158,7 @@
       "title": "Build a 24/7 FAQ Chatbot for Your Website (No Code)",
       "area": "D",
       "area_name": "AI for customer support",
-      "promise": "Answer common questions instantly, even when you’re closed.",
+      "promise": "Answer common questions instantly, even when you\u2019re closed.",
       "price_usd": 2.7,
       "cover": "assets/covers/build-a-24-7-faq-chatbot-for-your-website-no-code.png",
       "pdf_file": "Coaching-Codex_build-a-24-7-faq-chatbot-for-your-website-no-code.pdf",
@@ -198,6 +198,22 @@
       "download_page": "dl/ask-your-data-turn-sales-numbers-into-simple-insights-with-Z8XxgDEkGncd/",
       "stripe_payment_link": "https://buy.stripe.com/cNidR2ak40vVbl6gzu8ww0d",
       "stripe_product_id": "prod_VaTluF4aBvA5X8"
+    },
+    {
+      "id": "CC-13",
+      "n": 13,
+      "slug": "never-take-meeting-notes-again-ai-notetakers-and-summaries",
+      "title": "Never Take Meeting Notes Again: AI Notetakers & Summaries",
+      "area": "F",
+      "area_name": "AI meeting notes & productivity",
+      "promise": "Get accurate summaries and action items from every meeting.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/never-take-meeting-notes-again-ai-notetakers-and-summaries.png",
+      "pdf_file": "Coaching-Codex_never-take-meeting-notes-again-ai-notetakers-and-summaries.pdf",
+      "download_token": "pRtF0hVHEyLc",
+      "download_page": "dl/never-take-meeting-notes-again-ai-notetakers-and-summaries-pRtF0hVHEyLc/",
+      "stripe_product_id": "prod_VbEGCOsvrgnWeO",
+      "stripe_payment_link": "https://buy.stripe.com/4gM28kbo83I7ah2bfa8ww0e"
     }
   ],
   "bundles": [
