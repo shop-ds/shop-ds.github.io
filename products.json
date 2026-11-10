@@ -214,6 +214,22 @@
       "download_page": "dl/never-take-meeting-notes-again-ai-notetakers-and-summaries-pRtF0hVHEyLc/",
       "stripe_product_id": "prod_VbEGCOsvrgnWeO",
       "stripe_payment_link": "https://buy.stripe.com/4gM28kbo83I7ah2bfa8ww0e"
+    },
+    {
+      "id": "CC-14",
+      "n": 14,
+      "slug": "the-ai-powered-workday-save-time-on-email-docs-and-planning",
+      "title": "The AI-Powered Workday: Save Time on Email, Docs & Planning",
+      "area": "F",
+      "area_name": "AI meeting notes & productivity",
+      "promise": "A simple daily routine that puts AI into your existing tools.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/the-ai-powered-workday-save-time-on-email-docs-and-planning.png",
+      "pdf_file": "Coaching-Codex_the-ai-powered-workday-save-time-on-email-docs-and-planning.pdf",
+      "download_token": "lMTzBde51Ehh",
+      "download_page": "dl/the-ai-powered-workday-save-time-on-email-docs-and-planning-lMTzBde51Ehh/",
+      "stripe_product_id": "prod_VbbXZrcF8v0Ljg",
+      "stripe_payment_link": "https://buy.stripe.com/8x2cMYfEo3I7ah23MI8ww0f"
     }
   ],
   "bundles": [
