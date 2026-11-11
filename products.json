@@ -230,6 +230,22 @@
       "download_page": "dl/the-ai-powered-workday-save-time-on-email-docs-and-planning-lMTzBde51Ehh/",
       "stripe_product_id": "prod_VbbXZrcF8v0Ljg",
       "stripe_payment_link": "https://buy.stripe.com/8x2cMYfEo3I7ah23MI8ww0f"
+    },
+    {
+      "id": "CC-15",
+      "n": 15,
+      "slug": "make-scroll-stopping-graphics-with-ai",
+      "title": "Make Scroll-Stopping Graphics with AI",
+      "area": "G",
+      "area_name": "AI image & video creation",
+      "promise": "Create on-brand posts, banners and carousels without a designer.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/make-scroll-stopping-graphics-with-ai.png",
+      "pdf_file": "Coaching-Codex_make-scroll-stopping-graphics-with-ai.pdf",
+      "download_token": "pNVHhu0W0Z1k",
+      "download_page": "dl/make-scroll-stopping-graphics-with-ai-pNVHhu0W0Z1k/",
+      "stripe_product_id": "prod_VbykCCfYQVTU2R",
+      "stripe_payment_link": "https://buy.stripe.com/5kQ3co0Jua6vdtecje8ww0g"
     }
   ],
   "bundles": [
