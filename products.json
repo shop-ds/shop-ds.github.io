@@ -246,6 +246,22 @@
       "download_page": "dl/make-scroll-stopping-graphics-with-ai-pNVHhu0W0Z1k/",
       "stripe_product_id": "prod_VbykCCfYQVTU2R",
       "stripe_payment_link": "https://buy.stripe.com/5kQ3co0Jua6vdtecje8ww0g"
+    },
+    {
+      "id": "CC-16",
+      "n": 16,
+      "slug": "make-videos-without-filming-ai-voiceover-and-avatar-videos",
+      "title": "Make Videos Without Filming: AI Voiceover & Avatar Videos for Business",
+      "area": "G",
+      "area_name": "AI image & video creation",
+      "promise": "Produce explainer and promo videos without being on camera.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/make-videos-without-filming-ai-voiceover-and-avatar-videos.png",
+      "pdf_file": "Coaching-Codex_make-videos-without-filming-ai-voiceover-and-avatar-videos.pdf",
+      "download_token": "w73moM8phvA6",
+      "download_page": "dl/make-videos-without-filming-ai-voiceover-and-avatar-videos-w73moM8phvA6/",
+      "stripe_product_id": "prod_VcLyxvt0Dbp85A",
+      "stripe_payment_link": "https://buy.stripe.com/bJe8wI63OemLcpa9728ww0h"
     }
   ],
   "bundles": [
