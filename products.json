@@ -262,6 +262,22 @@
       "download_page": "dl/make-videos-without-filming-ai-voiceover-and-avatar-videos-w73moM8phvA6/",
       "stripe_product_id": "prod_VcLyxvt0Dbp85A",
       "stripe_payment_link": "https://buy.stripe.com/bJe8wI63OemLcpa9728ww0h"
+    },
+    {
+      "id": "CC-17",
+      "n": 17,
+      "slug": "no-code-automation-starter-kit-your-first-5-automations",
+      "title": "No-Code Automation Starter Kit: Your First 5 Automations",
+      "area": "H",
+      "area_name": "No-code automation",
+      "promise": "Connect your apps so busywork does itself, no coding needed.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/no-code-automation-starter-kit-your-first-5-automations.png",
+      "pdf_file": "Coaching-Codex_no-code-automation-starter-kit-your-first-5-automations.pdf",
+      "download_token": "Rc6YoIO90H4B",
+      "download_page": "dl/no-code-automation-starter-kit-your-first-5-automations-Rc6YoIO90H4B/",
+      "stripe_product_id": "prod_VcjJ5hMb3KGQjH",
+      "stripe_payment_link": "https://buy.stripe.com/7sYcMY77S7Yn74Q0Aw8ww0i"
     }
   ],
   "bundles": [
