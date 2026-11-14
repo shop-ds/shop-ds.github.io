@@ -278,6 +278,22 @@
       "download_page": "dl/no-code-automation-starter-kit-your-first-5-automations-Rc6YoIO90H4B/",
       "stripe_product_id": "prod_VcjJ5hMb3KGQjH",
       "stripe_payment_link": "https://buy.stripe.com/7sYcMY77S7Yn74Q0Aw8ww0i"
+    },
+    {
+      "id": "CC-18",
+      "n": 18,
+      "slug": "zapier-vs-make-vs-n8n-choose-and-build-your-first-ai",
+      "title": "Zapier vs Make vs n8n: Choose & Build Your First AI Workflow",
+      "area": "H",
+      "area_name": "No-code automation",
+      "promise": "Pick the right automation tool and build an AI workflow end to end.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/zapier-vs-make-vs-n8n-choose-and-build-your-first-ai.png",
+      "pdf_file": "Coaching-Codex_zapier-vs-make-vs-n8n-choose-and-build-your-first-ai.pdf",
+      "download_token": "QwjplPNyRuDH",
+      "download_page": "dl/zapier-vs-make-vs-n8n-choose-and-build-your-first-ai-QwjplPNyRuDH/",
+      "stripe_product_id": "prod_Vd690iXOyoagjI",
+      "stripe_payment_link": "https://buy.stripe.com/dRm6oA63OceD9cY3MI8ww0j"
     }
   ],
   "bundles": [
