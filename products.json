@@ -294,6 +294,22 @@
       "download_page": "dl/zapier-vs-make-vs-n8n-choose-and-build-your-first-ai-QwjplPNyRuDH/",
       "stripe_product_id": "prod_Vd690iXOyoagjI",
       "stripe_payment_link": "https://buy.stripe.com/dRm6oA63OceD9cY3MI8ww0j"
+    },
+    {
+      "id": "CC-19",
+      "n": 19,
+      "slug": "ai-agents-explained-simply-what-they-can-do-for-your",
+      "title": "AI Agents Explained Simply: What They Can Do for Your Business",
+      "area": "I",
+      "area_name": "AI agents & MCP connectors",
+      "promise": "Understand AI agents without hype, and know when to use one.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-agents-explained-simply-what-they-can-do-for-your.png",
+      "pdf_file": "Coaching-Codex_ai-agents-explained-simply-what-they-can-do-for-your.pdf",
+      "download_token": "Wn8G50BayhL3",
+      "download_page": "dl/ai-agents-explained-simply-what-they-can-do-for-your-Wn8G50BayhL3/",
+      "stripe_product_id": "prod_VdTVwHqzgRR8Oa",
+      "stripe_payment_link": "https://buy.stripe.com/8x27sEfEo4Mb60M5UQ8ww0k"
     }
   ],
   "bundles": [
