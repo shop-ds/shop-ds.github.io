@@ -310,6 +310,22 @@
       "download_page": "dl/ai-agents-explained-simply-what-they-can-do-for-your-Wn8G50BayhL3/",
       "stripe_product_id": "prod_VdTVwHqzgRR8Oa",
       "stripe_payment_link": "https://buy.stripe.com/8x27sEfEo4Mb60M5UQ8ww0k"
+    },
+    {
+      "id": "CC-20",
+      "n": 20,
+      "slug": "mcp-connectors-for-beginners-let-ai-safely-use-your-apps",
+      "title": "MCP Connectors for Beginners: Let AI Safely Use Your Apps",
+      "area": "I",
+      "area_name": "AI agents & MCP connectors",
+      "promise": "Learn how connectors let AI read and act in your tools, safely.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/mcp-connectors-for-beginners-let-ai-safely-use-your-apps.png",
+      "pdf_file": "Coaching-Codex_mcp-connectors-for-beginners-let-ai-safely-use-your-apps.pdf",
+      "download_token": "5qCDRSdMNs1i",
+      "download_page": "dl/mcp-connectors-for-beginners-let-ai-safely-use-your-apps-5qCDRSdMNs1i/",
+      "stripe_product_id": "prod_VdqdpulacUU8k9",
+      "stripe_payment_link": "https://buy.stripe.com/00w6oA63O6Uj3SE0Aw8ww0l"
     }
   ],
   "bundles": [
