@@ -326,6 +326,22 @@
       "download_page": "dl/mcp-connectors-for-beginners-let-ai-safely-use-your-apps-5qCDRSdMNs1i/",
       "stripe_product_id": "prod_VdqdpulacUU8k9",
       "stripe_payment_link": "https://buy.stripe.com/00w6oA63O6Uj3SE0Aw8ww0l"
+    },
+    {
+      "id": "CC-21",
+      "n": 21,
+      "slug": "hire-smarter-with-ai-job-ads-screening-and-interview-kits",
+      "title": "Hire Smarter with AI: Job Ads, Screening & Interview Kits",
+      "area": "J",
+      "area_name": "AI for HR & recruiting",
+      "promise": "Write better job ads and run fairer interviews in less time.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/hire-smarter-with-ai-job-ads-screening-and-interview-kits.png",
+      "pdf_file": "Coaching-Codex_hire-smarter-with-ai-job-ads-screening-and-interview-kits.pdf",
+      "download_token": "s9qXBw2ZphQf",
+      "download_page": "dl/hire-smarter-with-ai-job-ads-screening-and-interview-kits-s9qXBw2ZphQf/",
+      "stripe_product_id": "prod_VeDq2iTN5Dpm5Q",
+      "stripe_payment_link": "https://buy.stripe.com/aFa9AM4ZK3I7cpaerm8ww0m"
     }
   ],
   "bundles": [
