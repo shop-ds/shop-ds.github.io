@@ -342,6 +342,22 @@
       "download_page": "dl/hire-smarter-with-ai-job-ads-screening-and-interview-kits-s9qXBw2ZphQf/",
       "stripe_product_id": "prod_VeDq2iTN5Dpm5Q",
       "stripe_payment_link": "https://buy.stripe.com/aFa9AM4ZK3I7cpaerm8ww0m"
+    },
+    {
+      "id": "CC-22",
+      "n": 22,
+      "slug": "ai-for-onboarding-and-training-build-sops-and-training",
+      "title": "AI for Onboarding & Training: Build SOPs and Training Guides Fast",
+      "area": "J",
+      "area_name": "AI for HR & recruiting",
+      "promise": "Turn what's in your head into clear SOPs your team can follow.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-for-onboarding-and-training-build-sops-and-training.png",
+      "pdf_file": "Coaching-Codex_ai-for-onboarding-and-training-build-sops-and-training.pdf",
+      "download_token": "30cZjUIdpaMC",
+      "download_page": "dl/ai-for-onboarding-and-training-build-sops-and-training-30cZjUIdpaMC/",
+      "stripe_product_id": "prod_Veb6PqR4ooG1lT",
+      "stripe_payment_link": "https://buy.stripe.com/5kQfZa2RC5Qfexiab68ww0n"
     }
   ],
   "bundles": [
