@@ -358,6 +358,22 @@
       "download_page": "dl/ai-for-onboarding-and-training-build-sops-and-training-30cZjUIdpaMC/",
       "stripe_product_id": "prod_Veb6PqR4ooG1lT",
       "stripe_payment_link": "https://buy.stripe.com/5kQfZa2RC5Qfexiab68ww0n"
+    },
+    {
+      "id": "CC-23",
+      "n": 23,
+      "slug": "ai-for-invoices-expenses-and-cash-flow-basics",
+      "title": "AI for Invoices, Expenses & Cash-Flow Basics",
+      "area": "K",
+      "area_name": "AI for finance & admin",
+      "promise": "Spend less time on money admin and see your cash flow clearly.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-for-invoices-expenses-and-cash-flow-basics.png",
+      "pdf_file": "Coaching-Codex_ai-for-invoices-expenses-and-cash-flow-basics.pdf",
+      "download_token": "L9egxVIal0pY",
+      "download_page": "dl/ai-for-invoices-expenses-and-cash-flow-basics-L9egxVIal0pY/",
+      "stripe_product_id": "prod_VeyJy6dQykwFV2",
+      "stripe_payment_link": "https://buy.stripe.com/28E6oAeAk7Yn4WIcje8ww0o"
     }
   ],
   "bundles": [
