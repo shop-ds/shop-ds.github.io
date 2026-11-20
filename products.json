@@ -374,6 +374,22 @@
       "download_page": "dl/ai-for-invoices-expenses-and-cash-flow-basics-L9egxVIal0pY/",
       "stripe_product_id": "prod_VeyJy6dQykwFV2",
       "stripe_payment_link": "https://buy.stripe.com/28E6oAeAk7Yn4WIcje8ww0o"
+    },
+    {
+      "id": "CC-24",
+      "n": 24,
+      "slug": "admin-on-autopilot-proposals-quotes-and-paperwork-with-ai",
+      "title": "Admin on Autopilot: Proposals, Quotes & Paperwork with AI",
+      "area": "K",
+      "area_name": "AI for finance & admin",
+      "promise": "Produce professional proposals and documents in a fraction of the time.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/admin-on-autopilot-proposals-quotes-and-paperwork-with-ai.png",
+      "pdf_file": "Coaching-Codex_admin-on-autopilot-proposals-quotes-and-paperwork-with-ai.pdf",
+      "download_token": "TOuGunntlKIK",
+      "download_page": "dl/admin-on-autopilot-proposals-quotes-and-paperwork-with-ai-TOuGunntlKIK/",
+      "stripe_product_id": "prod_VfLcO5Vp0uEWSx",
+      "stripe_payment_link": "https://buy.stripe.com/aFa00cak44MbfBmfvq8ww0p"
     }
   ],
   "bundles": [
