@@ -390,6 +390,22 @@
       "download_page": "dl/admin-on-autopilot-proposals-quotes-and-paperwork-with-ai-TOuGunntlKIK/",
       "stripe_product_id": "prod_VfLcO5Vp0uEWSx",
       "stripe_payment_link": "https://buy.stripe.com/aFa00cak44MbfBmfvq8ww0p"
+    },
+    {
+      "id": "CC-25",
+      "n": 25,
+      "slug": "ai-safety-and-privacy-for-small-businesses-a-simple-policy",
+      "title": "AI Safety & Privacy for Small Businesses: A Simple Policy in One Afternoon",
+      "area": "L",
+      "area_name": "AI safety & privacy for SMEs",
+      "promise": "Use AI confidently without risking customer trust or data.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-safety-and-privacy-for-small-businesses-a-simple-policy.png",
+      "pdf_file": "Coaching-Codex_ai-safety-and-privacy-for-small-businesses-a-simple-policy.pdf",
+      "download_token": "467RcvRg6Wq6",
+      "download_page": "dl/ai-safety-and-privacy-for-small-businesses-a-simple-policy-467RcvRg6Wq6/",
+      "stripe_product_id": "prod_VfinGo35IY6yF0",
+      "stripe_payment_link": "https://buy.stripe.com/fZubIUcsc7Yn60M3MI8ww0q"
     }
   ],
   "bundles": [
