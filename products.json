@@ -406,6 +406,22 @@
       "download_page": "dl/ai-safety-and-privacy-for-small-businesses-a-simple-policy-467RcvRg6Wq6/",
       "stripe_product_id": "prod_VfinGo35IY6yF0",
       "stripe_payment_link": "https://buy.stripe.com/fZubIUcsc7Yn60M3MI8ww0q"
+    },
+    {
+      "id": "CC-26",
+      "n": 26,
+      "slug": "spot-ai-scams-and-deepfakes-protect-your-business-and-team",
+      "title": "Spot AI Scams & Deepfakes: Protect Your Business and Team",
+      "area": "L",
+      "area_name": "AI safety & privacy for SMEs",
+      "promise": "Recognize voice, video and email scams powered by AI.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/spot-ai-scams-and-deepfakes-protect-your-business-and-team.png",
+      "pdf_file": "Coaching-Codex_spot-ai-scams-and-deepfakes-protect-your-business-and-team.pdf",
+      "download_token": "1gf2EuLGQisU",
+      "download_page": "dl/spot-ai-scams-and-deepfakes-protect-your-business-and-team-1gf2EuLGQisU/",
+      "stripe_product_id": "prod_Vg62hF0cjN5u61",
+      "stripe_payment_link": "https://buy.stripe.com/5kQeV62RC92rexi5UQ8ww0r"
     }
   ],
   "bundles": [
