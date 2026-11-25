@@ -454,6 +454,22 @@
       "download_page": "dl/landing-pages-in-a-day-turn-one-offer-into-a-clear-page-i5bPjMInv7Eq/",
       "stripe_product_id": "prod_VgqYDVs4UTPxRi",
       "stripe_payment_link": "https://buy.stripe.com/00wdR23VG1zZcpaerm8ww0t"
+    },
+    {
+      "id": "CC-29",
+      "n": 29,
+      "slug": "product-and-service-descriptions-an-ai-catalog-writing-kit",
+      "title": "Product and Service Descriptions: An AI Catalog Writing Kit",
+      "area": "M",
+      "area_name": "AI for websites, SEO & being found",
+      "promise": "Describe what you sell clearly and consistently, one product or service at a time.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/product-and-service-descriptions-an-ai-catalog-writing-kit.png",
+      "pdf_file": "Coaching-Codex_product-and-service-descriptions-an-ai-catalog-writing-kit.pdf",
+      "download_token": "asKrqwCN6Uzb",
+      "download_page": "dl/product-and-service-descriptions-an-ai-catalog-writing-kit-asKrqwCN6Uzb/",
+      "stripe_product_id": "prod_VhDiX1AjsWx3kE",
+      "stripe_payment_link": "https://buy.stripe.com/9B67sE77S2E34WIdni8ww0u"
     }
   ],
   "bundles": [
