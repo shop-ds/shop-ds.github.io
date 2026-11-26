@@ -470,6 +470,22 @@
       "download_page": "dl/product-and-service-descriptions-an-ai-catalog-writing-kit-asKrqwCN6Uzb/",
       "stripe_product_id": "prod_VhDiX1AjsWx3kE",
       "stripe_payment_link": "https://buy.stripe.com/9B67sE77S2E34WIdni8ww0u"
+    },
+    {
+      "id": "CC-30",
+      "n": 30,
+      "slug": "your-brand-voice-in-a-one-page-brief-make-ai-sound-like-you",
+      "title": "Your Brand Voice in a One-Page Brief: Make AI Sound Like You",
+      "area": "O",
+      "area_name": "AI writing craft & brand voice",
+      "promise": "Capture how you write so every AI draft starts on-brand.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/your-brand-voice-in-a-one-page-brief-make-ai-sound-like-you.png",
+      "pdf_file": "Coaching-Codex_your-brand-voice-in-a-one-page-brief-make-ai-sound-like-you.pdf",
+      "download_token": "kOhNM4gFzjFh",
+      "download_page": "dl/your-brand-voice-in-a-one-page-brief-make-ai-sound-like-you-kOhNM4gFzjFh/",
+      "stripe_product_id": "prod_VhavqkzKQ3cjHc",
+      "stripe_payment_link": "https://buy.stripe.com/7sY00c8bW4MbfBmdni8ww0v"
     }
   ],
   "bundles": [
