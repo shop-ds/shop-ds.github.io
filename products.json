@@ -486,6 +486,22 @@
       "download_page": "dl/your-brand-voice-in-a-one-page-brief-make-ai-sound-like-you-kOhNM4gFzjFh/",
       "stripe_product_id": "prod_VhavqkzKQ3cjHc",
       "stripe_payment_link": "https://buy.stripe.com/7sY00c8bW4MbfBmdni8ww0v"
+    },
+    {
+      "id": "CC-31",
+      "n": 31,
+      "slug": "ai-writing-that-does-not-sound-like-ai-edit-and-fact-check",
+      "title": "AI Writing That Does Not Sound Like AI: Edit and Fact-Check",
+      "area": "O",
+      "area_name": "AI writing craft & brand voice",
+      "promise": "Turn stiff drafts into clear copy you can stand behind.",
+      "price_usd": 2.7,
+      "cover": "assets/covers/ai-writing-that-does-not-sound-like-ai-edit-and-fact-check.png",
+      "pdf_file": "Coaching-Codex_ai-writing-that-does-not-sound-like-ai-edit-and-fact-check.pdf",
+      "download_token": "wlQPvcLiFOPf",
+      "download_page": "dl/ai-writing-that-does-not-sound-like-ai-edit-and-fact-check-wlQPvcLiFOPf/",
+      "stripe_product_id": "prod_VhyA4FaOZDPmgn",
+      "stripe_payment_link": "https://buy.stripe.com/eVq3co8bWemL9cYfvq8ww0w"
     }
   ],
   "bundles": [
